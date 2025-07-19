@@ -4,8 +4,8 @@
   
   ![Profile Views](https://komarev.com/ghpvc/?username=ankurthe26&label=Profile%20views&color=0e75b6&style=flat)
   ![GitHub Followers](https://img.shields.io/github/followers/ankurthe26?label=Followers&style=social)
-  ![GitHub User Stars](https://img.shields.io/github/stars/ankurthe26?label=Total%20Stars&style=social)
-  ![GitHub Repositories](https://img.shields.io/badge/Repositories-10+-blue?style=flat-square)
+  ![GitHub Stars](https://img.shields.io/github/stars/ankurthe26?label=Stars&style=social)
+  ![GitHub Forks](https://img.shields.io/github/forks/ankurthe26?label=Forks&style=social)
   
 </div>
 
@@ -113,39 +113,6 @@ I'm a passionate **Machine Learning Engineer** from India, dedicated to building
 - [ ] Complete advanced ML certifications
 - [ ] Build and deploy more AI applications
 - [ ] Mentor junior developers
-
----
-
-## 📋 Additional Badges You Can Add
-
-### GitHub Activity Badges
-```markdown
-![GitHub last commit](https://img.shields.io/github/last-commit/ankurthe26/ankurthe26)
-![GitHub repo size](https://img.shields.io/github/repo-size/ankurthe26/ankurthe26)
-![GitHub issues](https://img.shields.io/github/issues/ankurthe26/ankurthe26)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/ankurthe26/ankurthe26)
-```
-
-### Skill Level Badges
-```markdown
-![Python](https://img.shields.io/badge/Python-Expert-green)
-![Machine Learning](https://img.shields.io/badge/ML-Advanced-blue)
-![AWS](https://img.shields.io/badge/AWS-Certified-orange)
-```
-
-### Social Media Badges
-```markdown
-![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
-![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
-```
-
-### Certification Badges
-```markdown
-![AWS Certified](https://img.shields.io/badge/AWS-Certified%20Solutions%20Architect-orange)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Certified-blue)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-Certified-blue)
-```
 
 ---
 
